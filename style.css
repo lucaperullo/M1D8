@@ -1,0 +1,11 @@
+body {
+    background-color: hsla(56, 77%, 42%, 0.534);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.myTaskList {
+    background-color: rgba(75, 75, 163, 0.671);
+    border-style: double;
+    border-width: 5px;
+    font-weight: bold;
+}
